@@ -9,7 +9,7 @@ Groq CLI with Glow is a command-line interface integrated with GroqCloud that al
 
 ## Prerequisites
 
-  • Groq API Key
+  • Groq API Key, get your api key from [here](https://console.groq.com/)
   • Groq CLI from this repository
   • Glow, Check this repository for installations glow *[Glow Guide](https://github.com/charmbracelet/glow)*
 
